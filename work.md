@@ -22,6 +22,7 @@
 * Opiod Overdose Aid
 * First Aid
 
+---------
 
 
 [Main](https://github.com/Princess-Singularity/CS/blobmain/README.md) || [Skills](https://github.com/Princess-Singularity/CS/blob/main/skills.md) || [Work](https://github.com/Princess-Singularity/CS/blob/main/work.md) 
