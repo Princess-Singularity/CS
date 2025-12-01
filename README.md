@@ -8,9 +8,10 @@ My name is *Corra* , I am 27 years old and I am a Mizzou Information Technology 
 
 ### What is this page for??
 
-Here you will learn the basics about me, my skill set, interests, and other [general information](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Genreal%20Information.md) pertinent to understanding who I am , and what it is I am capable of doing.
+Here you will learn the basics about me, my skill set, interests, and other general informatino about me!
+
 
 
 ### *FIND OUT MORE!*
 
-[general information](https://github.com/Princess-Singularity/CS/blob) // 
+[Main](https://github.com/Princess-Singularity/CS/blobmain/README.md) || [Skills](https://github.com/Princess-Singularity/CS/blob/main/Skills) || [Work](https://github.com/Princess-Singularity/CS/blob/main/Work) 
