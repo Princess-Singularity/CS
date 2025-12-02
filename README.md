@@ -15,4 +15,4 @@ Here you will learn the basics about me, my skill set, interests, and other gene
 ### *FIND OUT MORE!*
 ---------
 
-[Main](https://github.com/Princess-Singularity/CS/blobmain/README.md) || [Skills](https://github.com/Princess-Singularity/CS/blob/main/skills.md) || [Work](https://github.com/Princess-Singularity/CS/blob/main/work.md) 
+[Main](https://github.com/Princess-Singularity/CS/blob/main/README.md) || [Skills](https://github.com/Princess-Singularity/CS/blob/main/skills.md) || [Work](https://github.com/Princess-Singularity/CS/blob/main/work.md) 
